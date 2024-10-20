@@ -1,6 +1,5 @@
 # Telecom-Customer-Churn-Prediction-and-Analysis
 Developed a machine learning model using logistic regression to predict customer churn in the telecom industry, optimizing features and achieving 78% accuracy for business insights
- # Telecom Customer Churn Prediction and Analysis
 
 ## Project Overview
 This project predicts customer churn for a telecommunications company using a logistic regression model. The model analyzes customer data, such as services and payment history, to identify key factors leading to churn.
